@@ -12,6 +12,6 @@ roslaunch my_red_robot_localization world.launch
 ```
 3. Run amcl launch file.
 ```
-roslaunch my_red_orbot_localization amcl.launch
+roslaunch my_red_robot_localization amcl.launch
 ```
 4. Use 2D Nav Goal in rviz navigate the robot.
